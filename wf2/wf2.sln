@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wf1", "wf1\wf1.csproj", "{322ADBAA-1425-4465-87DE-B81FA98CE0A3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wf2", "wf2\wf2.csproj", "{22344C0C-C14E-4D6C-8416-B4E95AC6ABA3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{322ADBAA-1425-4465-87DE-B81FA98CE0A3}.Debug|x86.ActiveCfg = Debug|x86
-		{322ADBAA-1425-4465-87DE-B81FA98CE0A3}.Debug|x86.Build.0 = Debug|x86
-		{322ADBAA-1425-4465-87DE-B81FA98CE0A3}.Release|x86.ActiveCfg = Release|x86
-		{322ADBAA-1425-4465-87DE-B81FA98CE0A3}.Release|x86.Build.0 = Release|x86
+		{22344C0C-C14E-4D6C-8416-B4E95AC6ABA3}.Debug|x86.ActiveCfg = Debug|x86
+		{22344C0C-C14E-4D6C-8416-B4E95AC6ABA3}.Debug|x86.Build.0 = Debug|x86
+		{22344C0C-C14E-4D6C-8416-B4E95AC6ABA3}.Release|x86.ActiveCfg = Release|x86
+		{22344C0C-C14E-4D6C-8416-B4E95AC6ABA3}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

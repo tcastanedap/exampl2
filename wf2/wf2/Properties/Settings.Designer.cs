@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace wf1.Properties
+namespace wf2.Properties
 {
 
 
